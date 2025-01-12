@@ -1,15 +1,27 @@
-Portfolio Website
-Welcome to my portfolio website repository! 🎉
+# Vikas Das - Portfolio Website  
 
-I am Vikas Das, a passionate Software Engineer and a second-year B.Tech Computer Science & Engineering student. I specialize in frontend web development and enjoy creating dynamic, user-friendly websites that combine functionality with creativity.
+Welcome to my portfolio website! 👨‍💻  
 
-This portfolio website is a reflection of my skills, projects, and journey in the tech world. It showcases my expertise in web development, including technologies like HTML, CSS, JavaScript, and modern frameworks.
+I am **Vikas Das**, a passionate **frontend web developer** and a **second-year B.Tech Computer Science and Engineering student** based in India. This portfolio showcases my projects, skills, and achievements in web development. It is a reflection of my journey as a software engineer and my dedication to building clean, responsive, and user-friendly interfaces.  
 
-Feel free to explore my code and see how I bring ideas to life through my designs and development efforts. Whether you’re here to collaborate, learn, or just explore, you’re welcome!
+## Features of the Website  
 
-Key Features:
-Responsive Design: Optimized for all devices.
-Interactive UI: Engaging user interfaces with a focus on accessibility.
-Project Showcase: Highlighting my best work with detailed descriptions.
-Explore My Work
-Check out my portfolio live by visiting the link below:https://vikas04das.github.io/Demo_Portfolio/
+- **Responsive Design**: Optimized for all screen sizes, from mobile to desktop.  
+- **Projects Section**: Explore my key projects with detailed descriptions and live links.  
+- **Skills Overview**: Highlights of the technologies and tools I am proficient in.  
+- **About Me**: Learn more about my educational background and aspirations.  
+- **Contact Form**: A direct way to reach out to me for collaboration or queries.  
+
+## Technology Stack  
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **Frameworks**: Bootstrap or Tailwind (if applicable)  
+- **Version Control**: Git  
+
+## How to View the Project  
+
+You can view my portfolio website live by clicking the link below. I would love to hear your feedback!  
+
+##### [https://vikas04das.github.io/Demo_Portfolio/](#)  
